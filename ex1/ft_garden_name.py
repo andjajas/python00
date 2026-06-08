@@ -3,4 +3,4 @@
 def ft_garden_name() -> None:
     var = input("Enter garden name: ")
     print(f"Garden: {var}")
-    print("Growing well!")
+    print("Status: Growing well!")
