@@ -1,3 +1,4 @@
 #!/usr/bin/env python3
 
-ft_hello_garden()
+def ft_hello_garden():
+	print("Hello, Garden Community!")
