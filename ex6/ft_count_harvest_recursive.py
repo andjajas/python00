@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-def helper_count_harvest(day, total_days) -> None:
+def helper_count_harvest(day: int, total_days: int) -> None:
     if day == total_days + 1:
         print("Harvest time!")
         return
